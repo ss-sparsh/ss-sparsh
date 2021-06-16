@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋 Welcome to Sparsh Shubham's Github Profile
+
+### I am a Graduate Data Scientist Looking for oppurtunities in the field of Quantitative Analysis and Data Science.
+### On this page I have kept all my personal and MSc projects.
+
+## 🔭 I’m currently working on a Stock Stability Prediction model for my MSc thesis.
+
+<a href="https://www.linkedin.com/in/ss-shubham/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/>  <a href="https://www.kaggle.com/sssparsh"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="drawing" width="75"/>
 
 <!--
 **ss-sparsh/ss-sparsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
